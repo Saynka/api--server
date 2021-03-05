@@ -1,7 +1,7 @@
 {
   "name": "api-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Project: Basic-Api-Server",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,8 +10,8 @@
     "test-watch": "jest --watchAll --coverage"
   },
   "repository": {
-    "test": "jest --verbose",
-    "test-watch": "jest --watchAll --verbose"
+    "type": "git",
+    "url": "git+https://github.com/Saynka/api-server.git"
   },
   "jest": {
     "testEnvironment": "node"
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/Saynka/api-server#readme",
   "dependencies": {
     "@code-fellows/supergoose": "^1.0.11",
+    "express": "^4.17.1",
     "jest": "^26.6.3",
     "mongoose": "^5.11.18"
   }
