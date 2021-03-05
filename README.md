@@ -1,12 +1,12 @@
 # LAB - 3
 
-## Project: Basic-Api-Server
+## Project: Api-Server
 
 ### Author: Kale Lesko 
 
 ### Pull Requests
 
-- []()
+- [first push](https://github.com/Saynka/api-server/pull/2/files)
 
 - []()
 
@@ -16,7 +16,7 @@
 
 - [ci/cd](https://github.com/Saynka/api-server/actions)
 <!-- - [back-end server url](http://xyz.com) (when applicable) -->
-- []()
+- [heroku](https://data-modeling-4.herokuapp.com/)
 
 ### Setup
 
@@ -69,4 +69,4 @@
 
 #### UML
 
-![UML Example](./assests/crud.jpg)
+![rought draft](./assests/crud.jpg)
